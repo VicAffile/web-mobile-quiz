@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#avancer,
+#propositions,
+#reponse {
+    display: flex;
+    flex-direction: column;
+}

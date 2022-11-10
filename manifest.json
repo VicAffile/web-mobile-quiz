@@ -1,0 +1,11 @@
+{
+  "name": "Quizz Pokémon",
+  "short_name": "PQ",
+  "description": "Quizz Pokémon pour le module dev mobile",
+  "dir": "ltr",
+  "lang": "fr",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "thele_color": "#000000"
+}
